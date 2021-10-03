@@ -2,6 +2,9 @@
   "name": "@thedeveloper/eslint-config-ts-styleguide",
   "version": "1.0.0",
   "description": "Typescript styleguide",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "files": [
     ".eslintrc.js",
     "README.md"
