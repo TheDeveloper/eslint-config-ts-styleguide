@@ -6,7 +6,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "files": [
-    ".eslintrc.js",
+    "index.js",
     "README.md"
   ],
   "scripts": {
