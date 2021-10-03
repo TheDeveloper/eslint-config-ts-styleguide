@@ -14,6 +14,7 @@ npm i -D \
   @thedeveloper/eslint-config-ts-styleguide \
   @typescript-eslint/eslint-plugin \
   @typescript-eslint/parser \
+  eslint-config-airbnb-base \
   eslint-plugin-import \
   eslint
 ```
