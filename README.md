@@ -52,3 +52,9 @@ cat > .vscode/settings.json <<EOF
 }
 EOF
 ```
+
+# Test
+
+```bash
+npm i
+```
