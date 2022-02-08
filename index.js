@@ -10,6 +10,8 @@ module.exports = {
     '@typescript-eslint/no-unsafe-call': 'off',
     '@typescript-eslint/no-unsafe-assignment': 'off',
     '@typescript-eslint/no-unsafe-member-access': 'off',
+    'no-restricted-syntax': 'off',
+    'no-void': 'off',
     '@typescript-eslint/member-delimiter-style': [
       'error',
       {
